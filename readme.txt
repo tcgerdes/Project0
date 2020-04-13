@@ -19,3 +19,6 @@ ordered & unordered Lists
 -> Requirement 7, 3
 -> implemented ordered & unordered List on Index Site in 2 columns of Bootstrap Framework 
 -> Usage: Container; Row; col-lg-SIZE for responsiveness
+
+Picture
+-> Requirement 

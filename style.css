@@ -1,4 +1,9 @@
-nav {
-    background-color: grey;
-    width: auto;
+@media print {
+    .screen-only {
+        display: none;
+    }
+}
+
+h1 {
+    color: blue;
 }
