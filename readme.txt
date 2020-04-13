@@ -1,0 +1,14 @@
+Documentation of Feature for Project0
+
+Requirement 1: contain at least 4 different html pages; possible to get from one to another
+Requirement 2: at least 1 Sytlesheet
+Requirement 3: at least 1 ordered; 1 unordered list
+Requirement 4: Stylesheet (CSS) 5 different CSS properties; 5 different types of CSS selectors
+Requirement 5: usage of #ID selector, .class
+Requirement 6: at least mobile-responsive  @media query
+Requirement 7: Bootstrap 4 component, usage of at least 2 Bootstrap columns for layout purposes
+Requirement 8: Stylesheet must use at least once SCSS Variable, at least 1 SCSS nesting, 1 SCSS inheritance
+
+
+
+Navigation
