@@ -1,8 +1,8 @@
 Documentation of Feature for Project0
 
-Requirement 1: contain at least 4 different html pages; possible to get from one to another
-Requirement 2: at least 1 Sytlesheet
-Requirement 3: at least 1 ordered; 1 unordered list
+Requirement 1: contain at least 4 different html pages; possible to get from one to another -> done
+Requirement 2: at least 1 Sytlesheet -> done
+Requirement 3: at least 1 ordered; 1 unordered list -> done
 Requirement 4: Stylesheet (CSS) 5 different CSS properties; 5 different types of CSS selectors
 Requirement 5: usage of #ID selector, .class
 Requirement 6: at least mobile-responsive  @media query
@@ -22,3 +22,8 @@ ordered & unordered Lists
 
 Picture
 -> Requirement 
+
+Stylesheet
+-> Requirement 2, 6
+-> implemented a own Stylesheet, made the Headline disappear on a printout
+-> Usage: embedded another reference to a second individual stylesheet in order to change styles to my own specific Requirement
