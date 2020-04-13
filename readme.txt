@@ -10,5 +10,12 @@ Requirement 7: Bootstrap 4 component, usage of at least 2 Bootstrap columns for 
 Requirement 8: Stylesheet must use at least once SCSS Variable, at least 1 SCSS nesting, 1 SCSS inheritance
 
 
-
 Navigation
+-> Requirement 1, 7
+-> implemented the Navigationbar from Bootstrap to navigate easies between pages back and forth
+-> Usage: navbar navbar-light for responsiveness
+
+ordered & unordered Lists
+-> Requirement 7, 3
+-> implemented ordered & unordered List on Index Site in 2 columns of Bootstrap Framework 
+-> Usage: Container; Row; col-lg-SIZE for responsiveness
